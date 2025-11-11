@@ -12,7 +12,7 @@
 	<artifactId>travelbooking-ms</artifactId>
 	<version>v1.0</version>
 	<name>travelbooking-ms</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
