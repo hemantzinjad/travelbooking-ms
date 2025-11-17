@@ -2,13 +2,11 @@ package com.example.travelbooking_ms;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
-public class train {
-    @GetMapping("/mytrain")
+public class visa {
+    @GetMapping("/myvisa")
     public String getData() {
-        return "please book your train tickets from irctc";
+        return "H1b for us is delayed";
     }
 }
-
