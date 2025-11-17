@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class bus {
     @GetMapping("/mybus")
     public String getData() {
-        return "please book your bus tickets";
+        return "please book your bus tickets from red bus";
     }
 }
 
